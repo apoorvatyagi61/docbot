@@ -1,0 +1,211 @@
+
+Stopped Growth :-->  
+Predicted disease is:'Growth Disorder, Turner Syndrome',
+Analgesics are: 'Thyroid hormone pills, growth hormone injections', 
+Possible treatments are:'Bone Age Xray, MRI scan', 
+I would recommend having:'Meat, Seafood,Leafygreens,Diary,Spinach, Beef'
+ -------> Please Enter your pincode to see available doctors near  you .
+
+Wheezing, Coughing and troubled breathing,chest pain -->Predicted disease is: Asthma;
+Analgesics are: Metered dose inhalers, nebulizers;
+Possible treatments are:Asthma therapy; 
+I would recommend having:Fruits and vegetables
+  -------> Please Enter your pincode to see available doctors near  you .
+
+baby too small, weight<5.5 pounds-->Predicted disease is:  'Learning disabilities', 
+Analgesics are: 'iron supplements', 
+Possible treatments are:'Temperature Control Incubator', 
+I would recommend having:'iron supplements'
+ -------> Please Enter your pincode to see available doctors near  you.
+
+Repetetive behaviour,prefers to be alone-->Predicted disease is: 'Autism\r\n',
+Analgesics are: 'Ketamine, Midazolem', 
+Possible treatments are:'Teach social skills and cognitive behaviour',
+ I would recommend having: 'Only yelow or white foods such as rice, potatoes or pasta and strictly avoid diary'
+  -------> Please Enter your pincode to see available doctors near  you.
+
+Self-destructiveness,sadness and being upset-->
+Predicted disease is: 'Depression', 
+Analgesics are: 'Prozac, Zoloft or Celexa',
+Possible treatments are:'Constantly praise him, teach skills, and give self-development talks',
+ I would recommend having: 'Fish and whole grains'.
+
+Paleness, loss of energy, weightloss and easy bruising--Predicted disease is: 'Cancer or Brain Tumor',
+Analgesics are: 'Morphine or Ibuprofen', 
+Possible treatments are:'Chemotherapy or Stem cell transplant',
+ I would recommend having: 'Cheese, Meat, Seafood, Diary and Eggs'.
+
+Fever,fever up to 102f, Tiredness or Loss of Appetite-->
+Predicted disease is:'Chickenpox', 
+Analgesics are: 'Acetaminophen', 
+Possible treatments are:'lukewarm bath and apply calamine lotion to itchy areas', 
+I would recommend having: 'Raw fruits, Vegetables, Meat, Pastured eggs and avoid salty foods'.
+
+easy tiredness and overweight-->
+Predicted disease is:'Obesity', 
+Analgesics are: 'Not suggested to take Analgesics are for obesity', 
+Possible treatments are:'building heathy eating ang drinking habits and physical activities like exercise', 
+I would recommend having: 'Fruits and vegetables, and avoid skipping breakfast'
+ -------> Please Enter your pincode to see available doctors near  you.
+
+Severe tooth ache-->
+Predicted disease is:'Cavities\r\n',
+Analgesics are:  'Ibuprofen or Aspirin',
+Possible treatments are: 'Fluoride toothpaste', 
+I would recommend having: 'juices and avoid sweets, chocolates and unhealthy snacks'.
+
+Often urinating, slow healing of bruises, weightloss-->
+Predicted disease is:  'Diabetes', 
+Analgesics are: 'Tylenol or Aspirin', 
+Possible treatments are:'Insulin Treatment', 
+I would recommend having: 'brown rice or cereals with two eggs daily'
+-------> Please Enter your pincode to see available doctors near  you.
+
+High body temperature, severe headache and tiredness-->
+Predicted disease is: 'Fever', 
+Analgesics are: 'Paracetemol or Aspirin', 
+Possible treatments are:'Tylenol, Ibuprofen',
+I would recommend having:  'fluid intake like fruitjuices or milk'
+-------> Please Enter your pincode to see available doctors near  you.
+
+Depression, Eating Disorders-->
+Predicted disease is:  'Drug or Smoke or Alcohol Addiction',
+Analgesics are:  'Baclofen, Gebapentin', 
+Possible treatments are:'Visiting Rehabilitation Centers, Help teens choose good friends and learn to say NO', 
+I would recommend having: 'Green leafy vegetables'.
+
+Swelling, irritation, breast or nipple pain-->
+Predicted disease is: 'Breast Cancer', 
+Analgesics are: 'Tamoxifen',
+Possible treatments are: 'heart-smart I would recommend having and indulge in physical activity and avoid smoking', 
+I would recommend having: 'whole grains, beans, legumes'.
+
+Sudden Confusion, Dizziness, Loss of Banlance-->
+Predicted disease is:  'Stroke',
+Analgesics are:  'Anti-platelet drugs like Plavix', 
+Possible treatments are:'Clot-bursting therapy', 
+I would recommend having: 'Fruits and Vegetables, and avoid salt'.
+
+Shortness of breath, or being inactive--> 
+Predicted disease is: 'COPD', 
+Analgesics are: 'Tudorza or Brovana', 
+Possible treatments are:'Inhalers and oral steroids',
+I would recommend having:  'Eggs, Cheese, Meat, fish, and Poultry'
+-------> Please Enter your pincode to see available doctors near  you.
+
+Forgetfulness or Confusion-->
+Predicted disease is: 'Alzheimer\'s disease', 
+Analgesics are: 'Aricept or Exelon', 
+Possible treatments are:'MRI and CT scans',
+I would recommend having: 'berries, beans and whole grains'.
+
+Chest pain, confusion, cough or fatigue-->
+Predicted disease is: 'Pneumonia or Influenza', 
+Analgesics are: 'Levofloxacin', 
+Possible treatments are:'Plenty of fluids and get lot of rest', 
+I would recommend having:'Citrus fruits, Oily fish and Leafy greens'
+-------> Please Enter your pincode to see available doctors near  you.
+
+Often urinating, slow healing of bruises, weightloss-->
+Predicted disease is:  'Diabetes', 
+Analgesics are: 'Tylenol or Aspirin', 
+Possible treatments are:'Insulin Treatment', 
+I would recommend having:'Brown rice or cereals with two eggs daily'.
+
+reduced urine, swelling of legs or fatigue-->
+Predicted disease is: 'Kidney Disease', 
+Analgesics are: 'Naproxen or Ibuprofen', 
+Possible treatments are:'Dialysis', 
+I would recommend having:'Berries, bell peppers, onions and apples'.
+
+Fever, chills, rapid breathing and heart rate-->
+Predicted disease is:  'Blood poisoning', 
+Analgesics are: 'Ceftriaxone or Azithromycin', 
+Possible treatments are:'Vasoconstriction to narrow blood vessels',
+ I would recommend having:'Leafy greens like spinach'.
+
+Fragile bones--> 
+Predicted disease is: 'Brittle bone disease', 
+Analgesics are: 'Biphosphonates, calcium and vitamin D supplements',
+Possible treatments are: 'VitaminD supplements and avoid smoking and alcohol',
+I would recommend having:'fruits and foods high on calcium'.
+
+Skin wrinkles and aging-->
+Predicted disease is: 'No disease', 
+Analgesics are: 'Anti-aging creams',
+Possible treatments are: 'Blepharoplasty surgery to get rid of aging',
+I would recommend having: 'Berries, Broccoli, Papaya, Spinach, Nuts and Avocado'.
+
+Blurry and loss of vision-->
+Predicted disease is:  'Mascular Degeneration',
+Analgesics are:  'Lucentis or Macugen',
+Possible treatments are: 'Regular exercise and avoid smoking', 
+I would recommend having:'Fish and vegetables'.
+
+Blood pressure reading 140 or higher-->
+Predicted disease is: 'High blood pressure', 
+Analgesics are: 'Thiazide diuretics', 
+Possible treatments are:'Physical activity like exercise and avoid smoking and srinking', 
+I would recommend having:'low-fat diary, whole grains and Fruits'.
+
+Trouble sleeping or sleep, mood swings, vaginal dryness-->
+Predicted disease is: 'Menopause',
+Analgesics are: 'Isoflav capsules',
+Possible treatments are: 'Estrogen levels test', 
+I would recommend having:'Fish, Fruits, Vegetables and Diary'.
+
+Cold, Allergies, Nasal problems-->
+Predicted disease is:  'Sinusitis', 
+Analgesics are: 'Acetaminophen or Nasal spray',
+Possible treatments are: 'Antibiotics like Aspirin and Nasal sprays', 
+I would recommend having:'Salmon, Avocados, Cherries and Beans'
+-------> Please Enter your pincode to see available doctors near  you.
+
+Pain while urine and ejaculation-->
+Predicted disease is: 'Prostate Cancer',
+Analgesics are:  'Bicalutamide or Casodex', 
+Possible treatments are:'Radiation therapy or prostatectomy',
+I would recommend having: 'Veggies and fruits and low in meat'.
+
+Trembling body parts and loss of balance-->
+Predicted disease is: 'Parkinson\'s disease',
+Analgesics are:  'Vesoret capsules',
+Possible treatments are: 'Cardibopa-levodopa', 
+I would recommend having:'Fruits and vegetables'.
+
+Buildup of fluids in legs, ankles and legs, tiredness-->
+Predicted disease is: 'Heart failure',
+Analgesics are: 'Carvedilol or Metoprolol',
+Possible treatments are: 'ACE inhibitors',
+I would recommend having: 'Plain rice, fish, egg, milk and yoghurt'.
+
+530011-->
+Doctor Name is:DR. M.Satyarao,
+contact number is:0891-2709239,
+location is:"malkapuram,beside postoffice",
+timings are: 6:30pm-9:30pm,
+Specialist : ENT.
+
+
+79413-->
+Doctor Name is:Dr. Michael Mendez,
+contact number is:8063706186,
+location is:"7008 Indiana Ave Ste A Lubbock Texas",
+timings are: 10.00am-5.00pm,
+Specialist : Family Medicine.
+
+247001-->
+Doctor Name is:DR. Rakesh Verma,
+contact number is:8765672341,
+location is:"Opposite Civil Hospital, Saharanpur, Uttar Pradesh",
+timings are: 5:30pm-9:30pm,
+Specialist : Psychologist
+
+251001-->
+Doctor Name is:DR. Manny ,
+contact number is:7657842342,
+location is:"New Mandi, Muzzafarnagar, Uttar Pradesh",
+timings are: 6:30pm-9:30pm,
+Specialist : Dentist
+
+
